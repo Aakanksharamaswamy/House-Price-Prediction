@@ -34,7 +34,7 @@ best to worst.
 
 # Tech Stack:
 
-➢ Language - Python
-➢ Libraries - Scikit-learn, pandas, numpy, matplotlib, seaborn, scipy, xgboost, joblib
+* Language - Python
+* Libraries - Scikit-learn, pandas, numpy, matplotlib, seaborn, scipy, xgboost, joblib
 
 
